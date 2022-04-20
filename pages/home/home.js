@@ -36,7 +36,7 @@ Page({
       this.setData({
         topTheme:data[0].entrance_img
       })
-      console.log(this.topTheme);
+      console.log(this.data.topTheme);
     })
   },
 
